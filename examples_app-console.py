@@ -1,4 +1,4 @@
-#app-console.py
+#console script to compare FP32 vs INT8 embeddings (cosine similarity + inference time).
 
 import numpy as np
 import torch
