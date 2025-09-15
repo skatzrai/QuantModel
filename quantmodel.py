@@ -1,5 +1,4 @@
-# quantmodel.py
-
+#universal Python module for loading and encoding texts with the quantized ONNX model.
 import numpy as np
 import torch
 import onnxruntime as ort
