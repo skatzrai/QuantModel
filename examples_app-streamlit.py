@@ -1,4 +1,4 @@
-# streamlit_app.py
+#code for interactive demo with Streamlit.
 
 import numpy as np
 import streamlit as st
